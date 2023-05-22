@@ -1,0 +1,20 @@
+.flag {
+    display: none;
+}
+
+td {
+    font-size: 18px;
+}
+
+.logo {
+    max-width: 18px;
+}
+
+.header-texto {
+    display: flex;
+    align-items: center;
+}
+
+.header-texto h1 {
+    padding-left: 15px;
+}
