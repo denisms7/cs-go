@@ -18,3 +18,9 @@ td {
 .header-texto h1 {
     padding-left: 15px;
 }
+
+
+.graficos {
+    height: 500px;
+    width: 100%;
+}
